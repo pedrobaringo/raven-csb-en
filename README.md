@@ -7,8 +7,8 @@
 - [Install](#install)
 - [Add CSS Styles](#add-css-styles)
 - [Create a Corvus Character](#create-a-covus-character)
-  - [Personality and Actions Tab](#perosnality-and-actions-tab)
-  - [Magic and Afftereffects Tab](#magic-and-aftereffects-tab)
+  - [Personality and Actions Tab](#personality-and-actions-tab)
+  - [Magic and Aftereffects Tab](#magic-and-aftereffects-tab)
   - [Paths and Circles Tab](#paths-and-circles-tab)
 - [Create a Non-Corvus-Character](#create-a-non-corvus-character)
 - [Create a Spectral Being](#create-a-spectral-being)
@@ -69,7 +69,7 @@ Under the Actions we have the fields "Your sisters and brothers" (which can be e
 
 ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/67e03609-d40f-4d14-a1a2-4b4f63548d09)
 
-### Magic and Afftereffects Tab
+### Magic and Aftereffects Tab
 In this tab we have the three boxes related to magic and aftereffects, problems, aids and twists.
 
 ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/be48b8bd-09a2-4dfc-9b3e-b7d831d319c1)
