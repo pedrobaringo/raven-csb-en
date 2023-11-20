@@ -1,4 +1,4 @@
-![Fondo Tutorial Raven](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/98ce6e8a-82c4-4514-b941-ddd657efac9f)
+![Fondo Tutorial Raven_Eng](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/d6d5db02-93b8-426f-a72d-8086a41e6cb7)
 
 # Character Sheets for Raven in Custom System Builder
 
