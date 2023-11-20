@@ -19,7 +19,7 @@ Foundry VTT module with the templates for the Raven game in English for the Cust
 
 To learn how to install and use it you can see the tutorial in the following link:
 
-[![Video del tutorial](http://img.youtube.com/vi/jgwC5lTZZrI/0.jpg)](http://www.youtube.com/watch?v=jgwC5lTZZrI "Tutorial Foundry-Raven")
+[![Video del tutorial](http://img.youtube.com/vi/pHkb0Hm9dYE/0.jpg)](http://www.youtube.com/watch?v=pHkb0Hm9dYE "Foundry Tutorial-Raven")
 
 ## Install
 To install this module in Foundry you have to use the following Manifest in the modules menu as shown in the image: **https://github.com/pedrobaringo/raven-csb-en/releases/latest/download/module.json**
