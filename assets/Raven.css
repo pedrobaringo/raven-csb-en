@@ -96,6 +96,10 @@
   border-image-slice: 30;
   border-image-repeat: round;
 }
+.titulorojo p{
+width:auto;
+margin: 0px;
+}
 .titulonormal {
 	font-family:'Darktown';
 	font-size: 20px;
