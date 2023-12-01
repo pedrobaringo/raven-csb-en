@@ -5,7 +5,6 @@
 ## Tabla of Content
 - [Introduction](#introduction)
 - [Install](#install)
-- [Add CSS Styles](#add-css-styles)
 - [Create a Corvus Character](#create-a-covus-character)
   - [Personality and Actions Tab](#personality-and-actions-tab)
   - [Magic and Aftereffects Tab](#magic-and-aftereffects-tab)
@@ -30,13 +29,6 @@ When you have created a world with the Custom System Builder, you must activate 
 It is important that when importing you keep the ID of the document as shown in the image:
 
 ![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/37e24478-1a59-4c50-8948-ccfa8c04ff36)
-
-## Add CSS Styles
-To make the style of the tiles and messages more similar to the book, go to Configure Settings --> Custom System Builder and there fill in the CSS Style file field with "**modules/raven-csb-en/assets/Raven.css**", without the inverted commas. And while we are in this menu, if we want a dice icon to appear next to the fields that can be rolled, in Roll Icons we can put "dice" (also without quotes). In initiative it is not necessary to put anything.
-
-![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/f03031d3-c3ce-4c17-9f03-ebf4535ccac7)
-
-For it to work we must refresh the page.
 
 ## Create a Corvus Character
 Once the templates are imported we can create the Actors.
