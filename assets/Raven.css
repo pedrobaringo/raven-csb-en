@@ -535,6 +535,3 @@ hr {
 .panelmagadv {
 border-top: 2px solid #671308;
 }
-div:empty {
-       display: none;
-    }
