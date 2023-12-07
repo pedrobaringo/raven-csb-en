@@ -93,13 +93,17 @@ Here we have to select in Template the one called NCC_Template.
 
 Once we have selected the template and click on the refresh icon in the tab we are ready to start filling it.
 
-![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/3c538727-aaa9-44ce-91e6-b1d78530e198)
+![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/429d9396-d42b-4887-a885-159b2ef81649)
 
 At the top we can select whether that NCC has magical arts and whether it is related to the Order so that these fields appear in the record.
 
-![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/fb44a280-607d-4df8-a1c1-487dc3a8a67d)
+We have two tabs, the first with various descriptions of the character and how it relates to the different actors in the city.
 
-The rest of the fields are simply for various descriptions of the character and how it relates to the different actors in the city. I have added this template in case you want to use tokens or a module (like Theatre Inserts https://foundryvtt.com/packages/theatre ) that needs tokens to display the character images.
+The second tab is where we can define the narrative twists for the character.
+
+![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/bb59af9b-37ff-47bc-91d3-33760f633461)
+
+I have added this template in case you want to use tokens or a module (like Theatre Inserts https://foundryvtt.com/packages/theatre ) that needs tokens to display the character images.
 
 ## Create a Spectral Being
 Click on Create Actor, give it a name and select the "character" type, and a blank tab will be created.
@@ -110,9 +114,15 @@ Here we have to select in Template the one called Spectral_Beings_Template.
 
 Once we have selected the template and click on the refresh icon on the tab we are ready to start filling it.
 
-![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/2b5e7b1a-969e-4916-b628-1146706e90ea)
+![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/69a05b3e-bdb6-4620-854d-ead2a7751826)
 
-The fields are simply for various descriptions of the being and ideas for mysteries. I've added this template in case you want to use tokens or a module (like Theatre Inserts https://foundryvtt.com/packages/theatre ) that needs tokens to display character images.
+We have two tabs, the first with various descriptions of the spectral being.
+
+The second tab is where we can define the narrative twists for the spectral being.
+
+![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/a2cdeafe-80fc-46bc-a514-930bef969a47)
+
+I've added this template in case you want to use tokens or a module (like Theatre Inserts https://foundryvtt.com/packages/theatre ) that needs tokens to display character images.
 
 ## Roll dice
 To make rolls you only need to click on the name of the Personality you want to roll.
