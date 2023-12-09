@@ -89,13 +89,15 @@ Click on Create Actor, give it a name and select the "character" type, and a bla
 
 ![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/30ea6336-4b01-4521-a878-fb5ba9a172a8)
 
-Here we have to select in Template the one called NCC_Template.
+Here we have to select in Template the one called "NCC_Template" if we want the template for a Character that does not belong to the Corvus family, or the "NCC_CF_Template" if we want to create someone from the Corvus family (the parents for example).
 
 Once we have selected the template and click on the refresh icon in the tab we are ready to start filling it.
 
 ![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/429d9396-d42b-4887-a885-159b2ef81649)
 
-At the top we can select whether that NCC has magical arts and whether it is related to the Order so that these fields appear in the record.
+![image](https://github.com/pedrobaringo/raven-csb-en/assets/148097688/79cd33b4-5031-4d55-9ce2-42946761d1b7)
+
+At the top we can select if that NCC has magic arts and if it is related to the Order so that these fields appear in the tab, if the template is "NCC_Template".
 
 We have two tabs, the first with various descriptions of the character and how it relates to the different actors in the city.
 
