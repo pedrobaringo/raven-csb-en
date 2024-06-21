@@ -11,12 +11,12 @@ export class RavenCorvus extends Die {
      /** @override */
     getResultLabel(result) {
         return {
-			"1": '<img src="modules/raven-csb-es/images/CaraBlankGato_inCHAT.png" />',
-            "2": '<img src="modules/raven-csb-es/images/CaraBlankGato_inCHAT.png" />',
-            "3": '<img src="modules/raven-csb-es/images/CaraBlankGato_inCHAT.png" />',
-            "4": '<img src="modules/raven-csb-es/images/CaraGato_inCHAT.png" />',
-			"5": '<img src="modules/raven-csb-es/images/CaraGato_inCHAT.png" />',			
-            "6": '<img src="modules/raven-csb-es/images/CaraGato_inCHAT.png" />'
+			"1": '<img src="modules/raven-csb-en/images/CaraBlankGato_inCHAT.png" />',
+            "2": '<img src="modules/raven-csb-en/images/CaraBlankGato_inCHAT.png" />',
+            "3": '<img src="modules/raven-csb-en/images/CaraBlankGato_inCHAT.png" />',
+            "4": '<img src="modules/raven-csb-en/images/CaraGato_inCHAT.png" />',
+			"5": '<img src="modules/raven-csb-en/images/CaraGato_inCHAT.png" />',			
+            "6": '<img src="modules/raven-csb-en/images/CaraGato_inCHAT.png" />'
         }[result.result];
     }
 }
@@ -34,12 +34,12 @@ export class RavenNiebla extends Die {
      /** @override */
     getResultLabel(result) {
         return {
-			"1": '<img src="modules/raven-csb-es/images/CaraBlankCuervo_inCHAT.png" />',
-            "2": '<img src="modules/raven-csb-es/images/CaraBlankCuervo_inCHAT.png" />',
-            "3": '<img src="modules/raven-csb-es/images/CaraBlankCuervo_inCHAT.png" />',
-            "4": '<img src="modules/raven-csb-es/images/CaraCuervo_inCHAT.png" />',
-			"5": '<img src="modules/raven-csb-es/images/CaraCuervo_inCHAT.png" />',			
-            "6": '<img src="modules/raven-csb-es/images/CaraCuervo_inCHAT.png" />'
+			"1": '<img src="modules/raven-csb-en/images/CaraBlankCuervo_inCHAT.png" />',
+            "2": '<img src="modules/raven-csb-en/images/CaraBlankCuervo_inCHAT.png" />',
+            "3": '<img src="modules/raven-csb-en/images/CaraBlankCuervo_inCHAT.png" />',
+            "4": '<img src="modules/raven-csb-en/images/CaraCuervo_inCHAT.png" />',
+			"5": '<img src="modules/raven-csb-en/images/CaraCuervo_inCHAT.png" />',			
+            "6": '<img src="modules/raven-csb-en/images/CaraCuervo_inCHAT.png" />'
         }[result.result];
     }
 }
