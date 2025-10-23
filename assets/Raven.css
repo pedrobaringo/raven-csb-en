@@ -24,8 +24,8 @@
 .dice-tooltip .dice-rolls .roll.success {
 	filter: none;
 }
-.window-app .window-content {
-	background: url(../images/Fondo Raven.webp);
+.window-content {
+	background: url("../images/Fondo Raven.webp");
 	background-repeat: no-repeat;
  	background-size: cover;
 }
@@ -106,16 +106,22 @@ margin: 0px;
 	color: #671308;
 }
 .titulonormal h1{
+	font-family:'Darktown';
+	color: #671308;
 	margin-top:10px;
 	font-size: 20px;
 	border:0px;
 }
 .titulonormal h2{
+	font-family:'Darktown';
+	color: #671308;
 	font-size: 15px;
 	border:0px;
 	color: black;
 }
 .titulonormal h3{
+	font-family:'Darktown';
+	color: #671308;
 	font-size: 13px;
 	border:0px;
 	margin-top:-5px;
@@ -518,10 +524,10 @@ hr {
 	font-family:'Aquifer';
 	font-size:15px;
 }
-.sheet .custom-system-actor header.sheet-header .profile-img-container{
+.profile-img-container{
 	border-width: 15px;
  	border-style: solid;
- 	border-image: url(../images/MarcoFoto.webp);
+ 	border-image: url("../images/MarcoFoto.webp");
  	border-image-slice: 60;
  	border-image-repeat: repeat;
 }
@@ -534,4 +540,25 @@ hr {
 }
 .panelmagadv {
 border-top: 2px solid #671308;
+}
+.checkboxacciones input[type="checkbox"]::before {
+    content: "";
+}
+.checkboxniebla input[type="checkbox"]::before {
+    content: "";
+}
+.custom-system-user-input-block input[type="checkbox"]::before {
+    content: "";
+}
+.checkboxacciones input[type="checkbox"]:checked::after {
+    content: "";
+}
+.checkboxniebla input[type="checkbox"]:checked::after {
+    content: "";
+}
+.custom-system-user-input-block input[type="checkbox"]:checked::after {
+    content: "";
+}
+input[type=text] {
+	box-shadow:0px 0px;
 }
