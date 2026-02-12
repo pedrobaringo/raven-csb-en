@@ -57,6 +57,8 @@ Hooks.once("ready", function() {
 						let docs2 =  collection2.importAll({folderId: folderident2, folderName: "Actor Templates", keepId: true});
 						game.user.setFlag("raven-csb-en", "welcomeMessage", true);
 						game.user.setFlag("raven-csb-en", "lastVersion", game.modules.get("raven-csb-en").version);
+						ui.notifications.info(game.i18n.localize("Templates imported. Reloading in 6sec..."), {permanent: true});
+						window.setTimeout(window.location.reload.bind(window.location), 7000);
 					});
 				}
 				}, 100);
@@ -90,6 +92,8 @@ Hooks.once("ready", function() {
 						}
 						let docs2 =  collection2.importAll({folderId: folderident2, folderName: "Actor Templates", keepId: true});
 						game.user.setFlag("raven-csb-en", "lastVersion", game.modules.get("raven-csb-en").version);
+						ui.notifications.info(game.i18n.localize("Templates imported. Reloading in 6sec..."), {permanent: true});
+						window.setTimeout(window.location.reload.bind(window.location), 7000);
 					});
 				}
 				}, 500);
