@@ -1,4 +1,4 @@
-export class RavenCorvus extends Die {
+export class RavenCorvus extends foundry.dice.terms.Die {
     constructor(termData) {
         termData.faces=6;
         super(termData);
@@ -21,7 +21,7 @@ export class RavenCorvus extends Die {
     }
 }
 
-export class RavenNiebla extends Die {
+export class RavenNiebla extends foundry.dice.terms.Die {
     constructor(termData) {
         termData.faces=6;
         super(termData);
